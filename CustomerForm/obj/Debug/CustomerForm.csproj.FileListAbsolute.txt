@@ -1,0 +1,10 @@
+C:\Users\Amr\source\repos\RestaurantsForm1\bin\Debug\CustomerForm.dll.config
+C:\Users\Amr\source\repos\RestaurantsForm1\bin\Debug\CustomerForm.dll
+C:\Users\Amr\source\repos\RestaurantsForm1\bin\Debug\CustomerForm.pdb
+C:\Users\Amr\source\repos\RestaurantsForm1\obj\Debug\CustomerForm.csproj.AssemblyReference.cache
+C:\Users\Amr\source\repos\RestaurantsForm1\obj\Debug\CustomerForm.Properties.Resources.resources
+C:\Users\Amr\source\repos\RestaurantsForm1\obj\Debug\CustomerForm.csproj.GenerateResource.cache
+C:\Users\Amr\source\repos\RestaurantsForm1\obj\Debug\CustomerForm.csproj.CoreCompileInputs.cache
+C:\Users\Amr\source\repos\RestaurantsForm1\obj\Debug\CustomerForm.dll
+C:\Users\Amr\source\repos\RestaurantsForm1\obj\Debug\CustomerForm.pdb
+C:\Users\Amr\source\repos\RestaurantsForm1\obj\Debug\CustomerForm.Form1.resources

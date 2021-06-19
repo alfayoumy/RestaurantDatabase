@@ -1,0 +1,9 @@
+C:\Users\Amr\source\repos\OnlineOrderForm\bin\Release\OnlineOrderForm.dll.config
+C:\Users\Amr\source\repos\OnlineOrderForm\bin\Release\OnlineOrderForm.dll
+C:\Users\Amr\source\repos\OnlineOrderForm\bin\Release\OnlineOrderForm.pdb
+C:\Users\Amr\source\repos\OnlineOrderForm\obj\Release\OnlineOrderForm.Form1.resources
+C:\Users\Amr\source\repos\OnlineOrderForm\obj\Release\OnlineOrderForm.Properties.Resources.resources
+C:\Users\Amr\source\repos\OnlineOrderForm\obj\Release\OnlineOrderForm.csproj.GenerateResource.cache
+C:\Users\Amr\source\repos\OnlineOrderForm\obj\Release\OnlineOrderForm.csproj.CoreCompileInputs.cache
+C:\Users\Amr\source\repos\OnlineOrderForm\obj\Release\OnlineOrderForm.dll
+C:\Users\Amr\source\repos\OnlineOrderForm\obj\Release\OnlineOrderForm.pdb

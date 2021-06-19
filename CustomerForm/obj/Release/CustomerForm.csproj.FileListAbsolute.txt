@@ -1,0 +1,9 @@
+C:\Users\Amr\source\repos\CustomerForm\bin\Release\CustomerForm.dll.config
+C:\Users\Amr\source\repos\CustomerForm\bin\Release\CustomerForm.dll
+C:\Users\Amr\source\repos\CustomerForm\bin\Release\CustomerForm.pdb
+C:\Users\Amr\source\repos\CustomerForm\obj\Release\CustomerForm.Form1.resources
+C:\Users\Amr\source\repos\CustomerForm\obj\Release\CustomerForm.Properties.Resources.resources
+C:\Users\Amr\source\repos\CustomerForm\obj\Release\CustomerForm.csproj.GenerateResource.cache
+C:\Users\Amr\source\repos\CustomerForm\obj\Release\CustomerForm.csproj.CoreCompileInputs.cache
+C:\Users\Amr\source\repos\CustomerForm\obj\Release\CustomerForm.dll
+C:\Users\Amr\source\repos\CustomerForm\obj\Release\CustomerForm.pdb
