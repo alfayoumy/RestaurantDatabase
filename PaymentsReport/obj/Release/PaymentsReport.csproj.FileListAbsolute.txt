@@ -68,3 +68,4 @@ C:\Users\Amr\source\repos\PaymentsReport\obj\Release\PaymentsReport.csproj.CoreC
 C:\Users\Amr\source\repos\PaymentsReport\obj\Release\PaymentsReport.csproj.CopyComplete
 C:\Users\Amr\source\repos\PaymentsReport\obj\Release\PaymentsReport.exe
 C:\Users\Amr\source\repos\PaymentsReport\obj\Release\PaymentsReport.pdb
+C:\Users\Amr\source\repos\PaymentsReport\obj\Release\PaymentsReport.csproj.AssemblyReference.cache

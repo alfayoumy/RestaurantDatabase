@@ -7,3 +7,4 @@ C:\Users\Amr\source\repos\CustomerForm\obj\Release\CustomerForm.csproj.GenerateR
 C:\Users\Amr\source\repos\CustomerForm\obj\Release\CustomerForm.csproj.CoreCompileInputs.cache
 C:\Users\Amr\source\repos\CustomerForm\obj\Release\CustomerForm.dll
 C:\Users\Amr\source\repos\CustomerForm\obj\Release\CustomerForm.pdb
+C:\Users\Amr\source\repos\CustomerForm\obj\Release\CustomerForm.csproj.AssemblyReference.cache
