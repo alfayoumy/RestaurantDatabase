@@ -31,14 +31,24 @@ namespace PaymentsReport
         {
             this.components = new System.ComponentModel.Container();
             Microsoft.Reporting.WinForms.ReportDataSource reportDataSource1 = new Microsoft.Reporting.WinForms.ReportDataSource();
-            this.reportViewer1 = new Microsoft.Reporting.WinForms.ReportViewer();
-            this.RestaurantDataSet = new PaymentsReport.RestaurantDataSet();
             this.DataTable1BindingSource = new System.Windows.Forms.BindingSource(this.components);
+            this.RestaurantDataSet = new PaymentsReport.RestaurantDataSet();
+            this.reportViewer1 = new Microsoft.Reporting.WinForms.ReportViewer();
             this.DataTable1TableAdapter = new PaymentsReport.RestaurantDataSetTableAdapters.DataTable1TableAdapter();
             this.button1 = new System.Windows.Forms.Button();
-            ((System.ComponentModel.ISupportInitialize)(this.RestaurantDataSet)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.DataTable1BindingSource)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.RestaurantDataSet)).BeginInit();
             this.SuspendLayout();
+            // 
+            // DataTable1BindingSource
+            // 
+            this.DataTable1BindingSource.DataMember = "DataTable1";
+            this.DataTable1BindingSource.DataSource = this.RestaurantDataSet;
+            // 
+            // RestaurantDataSet
+            // 
+            this.RestaurantDataSet.DataSetName = "RestaurantDataSet";
+            this.RestaurantDataSet.SchemaSerializationMode = System.Data.SchemaSerializationMode.IncludeSchema;
             // 
             // reportViewer1
             // 
@@ -51,16 +61,6 @@ namespace PaymentsReport
             this.reportViewer1.ServerReport.BearerToken = null;
             this.reportViewer1.Size = new System.Drawing.Size(1374, 713);
             this.reportViewer1.TabIndex = 0;
-            // 
-            // RestaurantDataSet
-            // 
-            this.RestaurantDataSet.DataSetName = "RestaurantDataSet";
-            this.RestaurantDataSet.SchemaSerializationMode = System.Data.SchemaSerializationMode.IncludeSchema;
-            // 
-            // DataTable1BindingSource
-            // 
-            this.DataTable1BindingSource.DataMember = "DataTable1";
-            this.DataTable1BindingSource.DataSource = this.RestaurantDataSet;
             // 
             // DataTable1TableAdapter
             // 
@@ -84,10 +84,10 @@ namespace PaymentsReport
             this.Controls.Add(this.button1);
             this.Controls.Add(this.reportViewer1);
             this.Name = "Form1";
-            this.Text = "Form1";
+            this.Text = "Payments Report";
             this.Load += new System.EventHandler(this.Form1_Load);
-            ((System.ComponentModel.ISupportInitialize)(this.RestaurantDataSet)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.DataTable1BindingSource)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.RestaurantDataSet)).EndInit();
             this.ResumeLayout(false);
 
         }
