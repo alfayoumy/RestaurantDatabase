@@ -8,3 +8,12 @@ C:\Users\Amr\source\repos\RestaurantsForm1\obj\Debug\CustomerForm.csproj.CoreCom
 C:\Users\Amr\source\repos\RestaurantsForm1\obj\Debug\CustomerForm.dll
 C:\Users\Amr\source\repos\RestaurantsForm1\obj\Debug\CustomerForm.pdb
 C:\Users\Amr\source\repos\RestaurantsForm1\obj\Debug\CustomerForm.Form1.resources
+C:\Users\dinaa\Documents\GitHub\RestaurantDatabase\CustomerForm\bin\Debug\CustomerForm.dll.config
+C:\Users\dinaa\Documents\GitHub\RestaurantDatabase\CustomerForm\bin\Debug\CustomerForm.dll
+C:\Users\dinaa\Documents\GitHub\RestaurantDatabase\CustomerForm\bin\Debug\CustomerForm.pdb
+C:\Users\dinaa\Documents\GitHub\RestaurantDatabase\CustomerForm\obj\Debug\CustomerForm.Form1.resources
+C:\Users\dinaa\Documents\GitHub\RestaurantDatabase\CustomerForm\obj\Debug\CustomerForm.Properties.Resources.resources
+C:\Users\dinaa\Documents\GitHub\RestaurantDatabase\CustomerForm\obj\Debug\CustomerForm.csproj.GenerateResource.cache
+C:\Users\dinaa\Documents\GitHub\RestaurantDatabase\CustomerForm\obj\Debug\CustomerForm.csproj.CoreCompileInputs.cache
+C:\Users\dinaa\Documents\GitHub\RestaurantDatabase\CustomerForm\obj\Debug\CustomerForm.dll
+C:\Users\dinaa\Documents\GitHub\RestaurantDatabase\CustomerForm\obj\Debug\CustomerForm.pdb

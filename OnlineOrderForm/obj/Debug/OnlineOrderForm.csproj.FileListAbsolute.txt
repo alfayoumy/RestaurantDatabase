@@ -7,3 +7,12 @@ C:\Users\dinaa\Desktop\RestaurantsForm3\RestaurantsForm1\obj\Debug\OnlineOrderFo
 C:\Users\dinaa\Desktop\RestaurantsForm3\RestaurantsForm1\obj\Debug\OnlineOrderForm.dll
 C:\Users\dinaa\Desktop\RestaurantsForm3\RestaurantsForm1\obj\Debug\OnlineOrderForm.pdb
 C:\Users\dinaa\Desktop\RestaurantsForm3\RestaurantsForm1\obj\Debug\OnlineOrderForm.Form1.resources
+C:\Users\dinaa\Documents\GitHub\RestaurantDatabase\OnlineOrderForm\bin\Debug\OnlineOrderForm.dll.config
+C:\Users\dinaa\Documents\GitHub\RestaurantDatabase\OnlineOrderForm\bin\Debug\OnlineOrderForm.dll
+C:\Users\dinaa\Documents\GitHub\RestaurantDatabase\OnlineOrderForm\bin\Debug\OnlineOrderForm.pdb
+C:\Users\dinaa\Documents\GitHub\RestaurantDatabase\OnlineOrderForm\obj\Debug\OnlineOrderForm.Form1.resources
+C:\Users\dinaa\Documents\GitHub\RestaurantDatabase\OnlineOrderForm\obj\Debug\OnlineOrderForm.Properties.Resources.resources
+C:\Users\dinaa\Documents\GitHub\RestaurantDatabase\OnlineOrderForm\obj\Debug\OnlineOrderForm.csproj.GenerateResource.cache
+C:\Users\dinaa\Documents\GitHub\RestaurantDatabase\OnlineOrderForm\obj\Debug\OnlineOrderForm.csproj.CoreCompileInputs.cache
+C:\Users\dinaa\Documents\GitHub\RestaurantDatabase\OnlineOrderForm\obj\Debug\OnlineOrderForm.dll
+C:\Users\dinaa\Documents\GitHub\RestaurantDatabase\OnlineOrderForm\obj\Debug\OnlineOrderForm.pdb
